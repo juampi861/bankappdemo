@@ -18,10 +18,6 @@ Este proyecto es un microservicio REST construido con Java y Spring Boot que imp
 - **Arquitectura Hexagonal**
 
 ---
-![image](https://github.com/user-attachments/assets/a2c8d2d8-b3b7-436c-8e18-4886d1ef7fd1)
-
-
----
 
 ## 🧩 Decisiones de diseño
 
